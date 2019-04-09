@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foosball.Domain.Models", "Foosball.Domain.Models\Foosball.Domain.Models.csproj", "{CB439BE8-FC87-43BD-8EE2-E35C72A537CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foosball.Domain.Application", "Foosball.Domain.Application\Foosball.Domain.Application.csproj", "{CC818CAF-1FFB-455E-838D-03F682A75F46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB439BE8-FC87-43BD-8EE2-E35C72A537CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB439BE8-FC87-43BD-8EE2-E35C72A537CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB439BE8-FC87-43BD-8EE2-E35C72A537CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB439BE8-FC87-43BD-8EE2-E35C72A537CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC818CAF-1FFB-455E-838D-03F682A75F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC818CAF-1FFB-455E-838D-03F682A75F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC818CAF-1FFB-455E-838D-03F682A75F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC818CAF-1FFB-455E-838D-03F682A75F46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDE172A4-BDA7-4395-848D-2B008BC1494A}
+	EndGlobalSection
+EndGlobal
