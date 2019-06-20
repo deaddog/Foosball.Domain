@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Foosball.Domain.Models.Tournaments;
+using System;
 
 namespace Foosball.Domain.Models
 {
